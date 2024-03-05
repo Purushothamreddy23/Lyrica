@@ -16,7 +16,7 @@ Front End :-
 
     Html
     CSS
-    JS
+    
 Framework :-
 
-Bootstrap
+    Bootstrap
