@@ -3,9 +3,9 @@ This is my personal portfolio website used to show case my skillset.
 
 The website hosted at netlify :-
 
-purushothamreddy.netlify.app
+https://purushothamreddy.netlify.app
 
-The Working Video is also available on LinkedIn :
+
 
 
 
