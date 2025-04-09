@@ -1,4 +1,4 @@
-# Lyrica
+# Lyrica - Musical App
 
 Lyrica is a minimalist app designed to help music lovers easily discover and explore lyrics for their favorite songs. With a sleek and user-friendly interface, Lyrica provides a distraction-free experience for accessing song lyrics instantly.
 
